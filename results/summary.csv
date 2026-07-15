@@ -1,0 +1,4 @@
+dataset,n_policies,avg_ga_fitness,avg_jcsce_fitness,avg_rand_fitness,avg_improvement_rand,avg_improvement_jcsce,avg_ga_coverage,avg_jcsce_coverage,avg_rand_coverage,avg_ga_suite_size,avg_jcsce_suite_size,avg_rand_suite_size,avg_ga_time_s,avg_jcsce_time_s
+authzforce,545,0.9268,0.8369,0.8142,14.7476,11.4622,1.0,1.0,1.0,9.5505,9.4404,15.0,0.6642,0.034
+dypol,41,0.9074,0.853,0.8331,10.5893,7.7951,1.0,1.0,1.0,8.7805,10.0,15.0,3.5644,0.1447
+onap,5,0.8566,0.7075,0.6777,27.022,21.512,1.0,1.0,1.0,9.2,7.6,15.0,0.3808,0.0234

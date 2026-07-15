@@ -192,20 +192,6 @@ Generated figures:
 - Matplotlib
 - Standard library: csv, json, argparse, pathlib
 
----
-
-## Citation
-
-If you use this repository, please cite:
-
-```bibtex
-@article{Thanh2026CoEvoTest,
-  title     = {CoEvoTest: A Co-Evolutionary Approach to Automated Test Case
-               Generation for XACML Access Control Policies},
-  author    = {Trinh, Thanh Binh},
-  year      = {2026}
-}
-```
 
 ---
 
@@ -215,10 +201,4 @@ This project is distributed under the MIT License. See [LICENSE](LICENSE) for de
 
 ---
 
-## Contact
 
-**Binh Trinh Thanh**
-Faculty of Information Systems
-Phenikaa University, Hanoi, Vietnam
-
-Email: binh.trinhthanh@phenikaa-uni.edu.vn
